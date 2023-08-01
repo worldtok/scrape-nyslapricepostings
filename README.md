@@ -1,5 +1,9 @@
 # nyslapricepostings scrapper
 
+## What this bot does
+
+This bot will help you to scrape price lookup from [https://www.nyslapricepostings.com/rest/product/lookup](https://www.nyslapricepostings.com/rest/product/lookup)
+
 You will need to have node and mongodb installed on your system
 
 ## softwares to install
